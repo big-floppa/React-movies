@@ -1,0 +1,12 @@
+.nav {
+  padding: 1rem;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo-title {
+  margin-left: 0.8rem;
+}
